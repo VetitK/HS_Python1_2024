@@ -1,4 +1,2 @@
-"""
-multiline comment
-multiline comment2
-"""
+name_input = input("Please enter your name: ")
+print("Hello, welcome", name_input)
